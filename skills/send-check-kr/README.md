@@ -14,7 +14,13 @@
 물론 모든 반려 사항과 조항에 위배하지 않게만 메시지를 작성하는건 실무적으로 제한이 많을 수 있습니다. 하지만 급하게 보내야 하는데 반려되면 안 되는 상황, 본인이 쓴 메시지가 어딘가에 위배되는지 확인하고 싶을 때 유용하게 쓰일 수 있도록 만들었습니다. (어디가 걸리는지 알고 리스크를 지는 것과 모르고 써버리는 것은 차이가 있으니까요!)
 
 ## 설치
-⚠️ 이 스킬은 본체(`SKILL.md`)가 아직 없어요. 아래 원본 링크를 보고 직접 가져와야 해요.
+클로드 코드에 이 링크를 주고 "이 스킬 설치해줘" 하면 끝이에요.
+
+```
+https://github.com/selfishclub/spongeclub3-skillus/tree/main/skills/send-check-kr
+```
+
+직접 할 거면 이 폴더를 `~/.claude/skills/send-check-kr/` 에 복붙하세요.
 
 ## 원본
 - 링크: https://github.com/ehyohui/spongeclub3-skillus/blob/add-send-check-kr/skills/send-check-kr/README.md
