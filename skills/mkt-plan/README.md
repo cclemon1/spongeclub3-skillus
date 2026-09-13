@@ -97,3 +97,5 @@ mkt-plan/
 ## 라이선스
 
 MIT
+
+> 카테고리: 마케팅 · 올린 사람: SallyjisunPark
