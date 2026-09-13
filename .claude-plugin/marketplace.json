@@ -1,0 +1,9 @@
+{
+  "name": "skillus",
+  "owner": {
+    "name": "스폰지클럽 3기 스킬러스",
+    "url": "https://sponge-skillers-3.vercel.app"
+  },
+  "description": "스폰지클럽 3기 스킬러스 유닛이 추천하는 Claude Code 플러그인",
+  "plugins": []
+}
