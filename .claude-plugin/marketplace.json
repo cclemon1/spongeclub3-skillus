@@ -5,5 +5,21 @@
     "url": "https://sponge-skillers-3.vercel.app"
   },
   "description": "스폰지클럽 3기 스킬러스 유닛이 추천하는 Claude Code 플러그인",
-  "plugins": []
+  "plugins": [
+    {
+      "name": "noshooni-threads",
+      "displayName": "노슈니 스레드 3종",
+      "source": "./plugins/noshooni-threads",
+      "description": "계정 코어 잡기 → 소재 쌓기 → 후킹 글쓰기까지, 스레드 운영을 한 흐름으로 묶은 스킬 3종",
+      "author": {
+        "name": "노슈니(오수인)"
+      },
+      "category": "콘텐츠",
+      "homepage": "https://github.com/selfishclub/spongeclub3-skillus/tree/main/plugins/noshooni-threads",
+      "metadata": {
+        "addedAt": "2026-09-13",
+        "registeredBy": "노슈니(오수인)"
+      }
+    }
+  ]
 }

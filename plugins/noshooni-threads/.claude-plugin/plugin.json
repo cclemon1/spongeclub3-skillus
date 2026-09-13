@@ -1,0 +1,8 @@
+{
+  "name": "noshooni-threads",
+  "displayName": "노슈니 스레드 3종",
+  "description": "스레드 계정 코어 잡기 → 소재 쌓기 → 후킹 글쓰기까지, 스레드 운영을 한 흐름으로 묶은 스킬 3종",
+  "author": { "name": "노슈니(오수인)" },
+  "homepage": "https://github.com/selfishclub/spongeclub3-skillus/tree/main/plugins/noshooni-threads",
+  "keywords": ["threads", "스레드", "sns", "콘텐츠", "후킹"]
+}
