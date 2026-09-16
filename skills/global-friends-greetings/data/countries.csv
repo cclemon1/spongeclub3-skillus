@@ -1,0 +1,94 @@
+iso2,name_en,name_ko,region,tz,tz_note,weekend,languages,greeting_lang,honorific,shutdown_periods,notes
+SA,Saudi Arabia,사우디아라비아,Middle East,Asia/Riyadh,서머타임 없음,Fri-Sat,Arabic,ar,Mr. / Eng.(엔지니어 호칭 매우 흔함) / Sheikh — 이름은 보통 Mr. + 이름(성 아님),"라마단 한 달 업무 단축, 이드 알피트르 전후 1주, 이드 알아드하 전후 1주",주중은 일~목. 목요일 오후부터 연락이 끊긴다고 보면 된다
+AE,United Arab Emirates,아랍에미리트,Middle East,Asia/Dubai,서머타임 없음,Sat-Sun,"Arabic, English",ar,Mr. / Eng. — 영어 비즈니스 관행이 강해 영문 호칭 무난,"라마단 업무 단축, 이드 전후, 8월 혹서기 옥외작업 정오 중단",2022년부터 주말이 토~일. 금요일은 오후 단축
+QA,Qatar,카타르,Middle East,Asia/Qatar,서머타임 없음,Fri-Sat,Arabic,ar,Mr. / Eng.,"라마단, 이드 전후",주중 일~목
+KW,Kuwait,쿠웨이트,Middle East,Asia/Kuwait,서머타임 없음,Fri-Sat,Arabic,ar,Mr. / Eng.,"라마단, 이드 전후",주중 일~목
+OM,Oman,오만,Middle East,Asia/Muscat,서머타임 없음,Fri-Sat,Arabic,ar,Mr. / Eng.,"라마단, 이드 전후",주중 일~목
+BH,Bahrain,바레인,Middle East,Asia/Bahrain,서머타임 없음,Fri-Sat,Arabic,ar,Mr. / Eng.,"라마단, 이드 전후",주중 일~목
+JO,Jordan,요르단,Middle East,Asia/Amman,서머타임 폐지(UTC+3 고정),Fri-Sat,Arabic,ar,Mr. / Eng.,"라마단, 이드 전후",주중 일~목
+IQ,Iraq,이라크,Middle East,Asia/Baghdad,서머타임 없음,Fri-Sat,"Arabic, Kurdish",ar,Mr. / Eng.,"라마단, 이드 전후, 아르바인 순례기",쿠르드 자치구는 노루즈(3/21)를 크게 쇤다
+TR,Türkiye,튀르키예,Middle East,Europe/Istanbul,서머타임 폐지(UTC+3 고정),Sat-Sun,Turkish,tr,이름 + Bey(남) / Hanım(여) — 성이 아니라 이름 뒤에 붙인다,"라마잔 바이람 9일, 쿠르반 바이람 9일, 7~8월 휴가철",바이람 연휴는 실질적으로 열흘 가까이 멈춘다
+IL,Israel,이스라엘,Middle East,Asia/Jerusalem,서머타임 있음,Fri-Sat,Hebrew,he,Mr. / Eng.,"유월절 주간, 티슈레이 명절(로시하샤나~수코트) 약 3주",금요일 오후부터 안식일. 금요일 발송 금물
+EG,Egypt,이집트,Africa,Africa/Cairo,서머타임 있음,Fri-Sat,Arabic,ar,Mr. / Eng.,"라마단, 이드 전후",주중 일~목
+MA,Morocco,모로코,Africa,Africa/Casablanca,라마단 기간 UTC+0으로 변경,Sat-Sun,"Arabic, French",ar,M. / Mr. / Eng.,"라마단, 이드 전후",라마단에 표준시가 바뀌므로 그 기간 발송시각 재확인
+DZ,Algeria,알제리,Africa,Africa/Algiers,서머타임 없음,Fri-Sat,"Arabic, French",ar,M. / Mr.,"라마단, 이드 전후",주중 일~목
+TN,Tunisia,튀니지,Africa,Africa/Tunis,서머타임 없음,Sat-Sun,"Arabic, French",ar,M. / Mr.,"라마단, 이드 전후",
+LY,Libya,리비아,Africa,Africa/Tripoli,서머타임 없음,Fri-Sat,Arabic,ar,Mr. / Eng.,"라마단, 이드 전후",정세 불안정
+NG,Nigeria,나이지리아,Africa,Africa/Lagos,서머타임 없음,Sat-Sun,English,en,Mr. / Engr.(공식 호칭),크리스마스~신년 2주,무슬림·기독교가 반반 — 상대 종교를 모르면 중립 표현
+GH,Ghana,가나,Africa,Africa/Accra,서머타임 없음,Sat-Sun,English,en,Mr. / Ing.,크리스마스~신년,
+KE,Kenya,케냐,Africa,Africa/Nairobi,서머타임 없음,Sat-Sun,"Swahili, English",sw,Mr. / Eng.,크리스마스~신년 2주,
+TZ,Tanzania,탄자니아,Africa,Africa/Dar_es_Salaam,서머타임 없음,Sat-Sun,"Swahili, English",sw,Mr. / Eng.,크리스마스~신년,본토·잔지바르 종교 구성이 다름
+ET,Ethiopia,에티오피아,Africa,Africa/Addis_Ababa,서머타임 없음,Sat-Sun,Amharic,am,Ato(남)/Weizero(여) + 이름,"에티오피아 신년(9월), 팀캇(1월)","고유 달력을 쓴다 — 신년이 9월, 크리스마스가 1월 7일"
+ZA,South Africa,남아프리카공화국,Africa,Africa/Johannesburg,서머타임 없음,Sat-Sun,"English, Afrikaans, Zulu",en,Mr. / Eng.,12월 중순~1월 초 여름휴가(가장 확실한 중단기),남반구 — 12~1월이 한여름 휴가
+SN,Senegal,세네갈,Africa,Africa/Dakar,서머타임 없음,Sat-Sun,French,fr,M. / Mr.,"라마단, 이드, 크리스마스",
+CI,Côte d'Ivoire,코트디부아르,Africa,Africa/Abidjan,서머타임 없음,Sat-Sun,French,fr,M. / Mr.,"라마단, 이드, 크리스마스",
+KR,South Korea,대한민국,East Asia,Asia/Seoul,서머타임 없음,Sat-Sun,Korean,ko,이름 + 님 / 직함,"설 연휴, 추석 연휴",발송 기준 국가
+JP,Japan,일본,East Asia,Asia/Tokyo,서머타임 없음,Sat-Sun,Japanese,ja,성 + 様(sama) / さん — 성을 쓴다,"연말연시(12/29~1/3), 골든위크(4/29~5/5), 오봉(8월 중순)",연하장 문화 — 신년 인사가 특히 중요
+CN,China,중국,East Asia,Asia/Shanghai,전국 단일 표준시,Sat-Sun,Chinese,zh,성 + 총(总)/경리(经理) 등 직함,"춘절 전후 2~3주(공장 실질 중단), 국경절 10/1~7",춘절 전 납기 마감이 매년 최대 변수
+TW,Taiwan,대만,East Asia,Asia/Taipei,서머타임 없음,Sat-Sun,Chinese,zh,성 + 직함,"춘절 1주, 중추절",정치적 표현은 중립 유지
+HK,Hong Kong,홍콩,East Asia,Asia/Hong_Kong,서머타임 없음,Sat-Sun,"Chinese, English",zh,Mr. / 영문명 흔함,"춘절 1주, 크리스마스~신년",
+MN,Mongolia,몽골,East Asia,Asia/Ulaanbaatar,서머타임 없음,Sat-Sun,Mongolian,mn,이름 + 구아이(гуай),"차강사르(음력 신년) 1주, 나담(7/11~15)",
+ID,Indonesia,인도네시아,Southeast Asia,Asia/Jakarta,3개 표준시(WIB/WITA/WIT) — 자카르타 기준,Sat-Sun,Indonesian,id,Pak(남) / Bu(여) + 이름,르바란(이둘피트리) 전후 2주 — 연중 최대 중단,무디크(귀성) 기간엔 아무도 일하지 않는다
+MY,Malaysia,말레이시아,Southeast Asia,Asia/Kuala_Lumpur,서머타임 없음,Sat-Sun,"Malay, English, Chinese",ms,Encik / Puan / Datuk(작위) — 작위 확인 필수,"하리라야 1~2주, 춘절",말레이·중국계·인도계 — 상대에 따라 챙길 명절이 다르다
+SG,Singapore,싱가포르,Southeast Asia,Asia/Singapore,서머타임 없음,Sat-Sun,"English, Chinese, Malay, Tamil",en,Mr. / 영문명,"춘절 2일, 크리스마스~신년",다민족 — 중립적 표현이 기본값
+VN,Vietnam,베트남,Southeast Asia,Asia/Ho_Chi_Minh,서머타임 없음,Sat-Sun,Vietnamese,vi,Anh(남) / Chị(여) + 이름 — 나이 기준 호칭,뗏(음력설) 전후 2~3주 — 연중 최대 중단,뗏 전 2주부터 이미 업무가 느려진다
+TH,Thailand,태국,Southeast Asia,Asia/Bangkok,서머타임 없음,Sat-Sun,Thai,th,Khun + 이름(남녀 공통),"송끄란 4/13~15 전후 1주, 연말연시",왕실 관련 날짜는 표현에 특히 신중
+PH,Philippines,필리핀,Southeast Asia,Asia/Manila,서머타임 없음,Sat-Sun,"Filipino, English",tl,Sir / Ma'am + 이름 (매우 흔함),"12월 중순~1월 초, 성주간(부활절 주간)",세계에서 가장 긴 크리스마스 시즌(9월부터)
+MM,Myanmar,미얀마,Southeast Asia,Asia/Yangon,UTC+6:30,Sat-Sun,Burmese,my,U(남) / Daw(여) + 이름,띠잔 4월 중순 1~2주,정세 불안정 — 정치 언급 금지
+KH,Cambodia,캄보디아,Southeast Asia,Asia/Phnom_Penh,서머타임 없음,Sat-Sun,Khmer,km,Lok(남) / Lok Srey(여),"크메르 신년 4월 중순, 프춤번 9~10월",
+LA,Laos,라오스,Southeast Asia,Asia/Vientiane,서머타임 없음,Sat-Sun,Lao,lo,Mr. / Mrs.,삐마이 4월 중순,
+BN,Brunei,브루나이,Southeast Asia,Asia/Brunei,서머타임 없음,Fri+Sun,Malay,ms,Awang / Dayang / Pengiran(왕족),"하리라야, 술탄 생일",주말이 금요일과 일요일 — 토요일은 근무일
+IN,India,인도,South Asia,Asia/Kolkata,UTC+5:30 단일,Sat-Sun,"Hindi, English + 다수",hi,Mr. / Shri / 남부는 이니셜 표기 흔함,"디왈리 전후 1주, 홀리",주별로 공휴일이 다르다 — 상대 州 확인
+PK,Pakistan,파키스탄,South Asia,Asia/Karachi,UTC+5,Sat-Sun,"Urdu, English",ur,Mr. / Engr. / Sahib,"라마단, 이드 전후",
+BD,Bangladesh,방글라데시,South Asia,Asia/Dhaka,UTC+6,Fri-Sat,Bengali,bn,Mr. / Janab,"라마단, 이드 전후, 포일라 보이샤크(4/14)",주중 일~목
+LK,Sri Lanka,스리랑카,South Asia,Asia/Colombo,UTC+5:30,Sat-Sun,"Sinhala, Tamil",si,Mr. / 이름,싱할라·타밀 신년 4월 중순,매월 보름(포야)이 공휴일
+NP,Nepal,네팔,South Asia,Asia/Kathmandu,UTC+5:45,Sat,Nepali,ne,Mr. / ji 접미,"다샤인 9~10월 2주, 티하르",주말이 토요일 하루
+AU,Australia,호주,Oceania,Australia/Sydney,동부 기준. 서부(Perth)는 2~3시간 느림,Sat-Sun,English,en,이름 직접 호칭(퍼스트네임) 선호,12월 중순~1월 말 여름휴가 — 실질적으로 1월 내내 느림,남반구
+NZ,New Zealand,뉴질랜드,Oceania,Pacific/Auckland,서머타임 있음,Sat-Sun,"English, Māori",en,퍼스트네임 선호,12월 중순~1월 말 여름휴가,남반구
+DE,Germany,독일,Europe,Europe/Berlin,서머타임 있음,Sat-Sun,German,de,"Herr / Frau + 성, 박사학위 있으면 Dr. 반드시 포함","크리스마스~신년 2주, 7~8월 휴가",호칭에서 Dr. 빠뜨리면 결례
+FR,France,프랑스,Europe,Europe/Paris,서머타임 있음,Sat-Sun,French,fr,M. / Mme + 성,"8월 전체 사실상 중단, 크리스마스~신년",8월에 보낸 메일은 9월에 읽힌다
+IT,Italy,이탈리아,Europe,Europe/Rome,서머타임 있음,Sat-Sun,Italian,it,Sig. / Dott. / Ing. — 학위 호칭 흔함,"8월 페라고스토 전후 2~3주, 크리스마스~1/6",8/15 전후는 완전 정지
+ES,Spain,스페인,Europe,Europe/Madrid,서머타임 있음,Sat-Sun,Spanish,es,Sr. / Sra. + 성,"8월 상당 기간, 크리스마스~1/6",1/6 주현절까지가 연말 시즌
+PT,Portugal,포르투갈,Europe,Europe/Lisbon,서머타임 있음,Sat-Sun,Portuguese,pt,Sr. / Eng.º,"8월, 크리스마스~신년",
+NL,Netherlands,네덜란드,Europe,Europe/Amsterdam,서머타임 있음,Sat-Sun,Dutch,nl,Dhr. / Mevr. — 실무는 퍼스트네임,"7~8월 휴가, 크리스마스~신년",
+BE,Belgium,벨기에,Europe,Europe/Brussels,서머타임 있음,Sat-Sun,"Dutch, French",nl,M./Mme 또는 Dhr./Mevr. — 지역 언어 확인,"7~8월, 크리스마스~신년",네덜란드어권·프랑스어권 구분 필요
+GB,United Kingdom,영국,Europe,Europe/London,서머타임 있음,Sat-Sun,English,en,Mr. / Ms. — 실무는 퍼스트네임,크리스마스~신년 2주,
+IE,Ireland,아일랜드,Europe,Europe/Dublin,서머타임 있음,Sat-Sun,English,en,퍼스트네임,크리스마스~신년,
+SE,Sweden,스웨덴,Europe,Europe/Stockholm,서머타임 있음,Sat-Sun,Swedish,sv,퍼스트네임(직함 거의 안 씀),"7월 전체 휴가, 한여름축제 주간, 크리스마스",7월엔 아무도 없다
+NO,Norway,노르웨이,Europe,Europe/Oslo,서머타임 있음,Sat-Sun,Norwegian,no,퍼스트네임,"7월 휴가, 부활절 주간 전체, 크리스마스",
+DK,Denmark,덴마크,Europe,Europe/Copenhagen,서머타임 있음,Sat-Sun,Danish,da,퍼스트네임,"7월 휴가, 크리스마스",
+FI,Finland,핀란드,Europe,Europe/Helsinki,서머타임 있음,Sat-Sun,Finnish,fi,퍼스트네임,"7월 전체 휴가, 한여름축제(유하누스), 크리스마스",
+AT,Austria,오스트리아,Europe,Europe/Vienna,서머타임 있음,Sat-Sun,German,de,Herr / Frau + 성 + 학위 호칭,"8월, 크리스마스~1/6",독일보다 학위 호칭에 더 엄격
+CH,Switzerland,스위스,Europe,Europe/Zurich,서머타임 있음,Sat-Sun,"German, French, Italian",de,Herr/Frau 또는 M./Mme — 주(canton)별 언어 확인,"7~8월, 크리스마스~신년",주마다 공휴일이 다르다
+GR,Greece,그리스,Europe,Europe/Athens,서머타임 있음,Sat-Sun,Greek,el,Kyrie / Kyria + 성,"8월 상당 기간, 정교회 부활절 주간, 크리스마스",정교회 부활절이 서방과 다른 날
+PL,Poland,폴란드,Europe,Europe/Warsaw,서머타임 있음,Sat-Sun,Polish,pl,Pan(남) / Pani(여) + 이름,"크리스마스~신년, 5월 초 연휴",
+CZ,Czechia,체코,Europe,Europe/Prague,서머타임 있음,Sat-Sun,Czech,cs,Pan / Paní + 성,"크리스마스~신년, 7~8월",
+HU,Hungary,헝가리,Europe,Europe/Budapest,서머타임 있음,Sat-Sun,Hungarian,hu,성이 먼저 오는 이름 순서 주의,"크리스마스~신년, 8월",
+RO,Romania,루마니아,Europe,Europe/Bucharest,서머타임 있음,Sat-Sun,Romanian,ro,Dl. / Dna. + 성,"정교회 부활절, 크리스마스~신년, 8월",
+BG,Bulgaria,불가리아,Europe,Europe/Sofia,서머타임 있음,Sat-Sun,Bulgarian,bg,G-n / G-zha + 성,"정교회 부활절, 크리스마스~신년",고개 끄덕임이 부정의 뜻 — 화상회의 시 유의
+RS,Serbia,세르비아,Europe,Europe/Belgrade,서머타임 있음,Sat-Sun,Serbian,sr,Gospodin / Gospođa,"정교회 크리스마스 1/7, 신년 연휴",
+HR,Croatia,크로아티아,Europe,Europe/Zagreb,서머타임 있음,Sat-Sun,Croatian,hr,Gospodin / Gospođa,"8월 관광 성수기, 크리스마스",
+SK,Slovakia,슬로바키아,Europe,Europe/Bratislava,서머타임 있음,Sat-Sun,Slovak,sk,Pán / Pani,"크리스마스~신년, 7~8월",
+RU,Russia,러시아,CIS,Europe/Moscow,"11개 표준시 — 모스크바 기준, 극동은 +6~7시간",Sat-Sun,Russian,ru,이름 + 부칭(오트체스트보) 조합이 정중,"1/1~1/8 신년 연휴 — 연중 최대 중단, 5월 초 연휴",제재 관련 거래 가능 여부 사전 확인
+UA,Ukraine,우크라이나,CIS,Europe/Kyiv,서머타임 있음,Sat-Sun,Ukrainian,uk,Pan / Pani + 이름,"신년 연휴, 크리스마스",전시 상황 — 축하 표현 전반에 신중
+KZ,Kazakhstan,카자흐스탄,CIS,Asia/Almaty,2024년부터 전국 단일 UTC+5,Sat-Sun,"Kazakh, Russian",kk,이름 + 부칭 또는 Myrza,"나우르즈 3/21~23 전후, 신년 연휴",
+UZ,Uzbekistan,우즈베키스탄,CIS,Asia/Tashkent,UTC+5,Sat-Sun,"Uzbek, Russian",uz,이름 + aka(남)/opa(여),"나브루즈 3/21 전후, 신년 연휴",
+AZ,Azerbaijan,아제르바이잔,CIS,Asia/Baku,서머타임 폐지(UTC+4 고정),Sat-Sun,Azerbaijani,az,Bəy / Xanım,"노브루즈 3/20~24 약 1주, 신년 연휴",
+GE,Georgia,조지아,CIS,Asia/Tbilisi,UTC+4 고정,Sat-Sun,Georgian,ka,Batono(남) / Kalbatono(여),"정교회 크리스마스 1/7, 신년 연휴",
+AM,Armenia,아르메니아,CIS,Asia/Yerevan,UTC+4 고정,Sat-Sun,Armenian,hy,Paron / Tikin,"1월 초 연휴, 크리스마스 1/6",4/24 제노사이드 추모일은 절대 축하 표현 금지
+TM,Turkmenistan,투르크메니스탄,CIS,Asia/Ashgabat,UTC+5,Sat-Sun,Turkmen,tk,Mr.,"노우루즈, 신년",
+US,United States,미국,Americas,America/New_York,본토 4개 표준시(동부/중부/산악/태평양) — 상대 州 확인 필수,Sat-Sun,English,en,Mr. / Ms. — 실무는 퍼스트네임,"추수감사절 주간, 12월 하순~신년",서부 해안은 한국시간과 17시간 차 — 날짜가 하루 밀린다
+CA,Canada,캐나다,Americas,America/Toronto,6개 표준시 — 밴쿠버는 태평양시,Sat-Sun,"English, French",en,퍼스트네임 / 퀘벡은 M./Mme,"12월 하순~신년, 7~8월",퀘벡 대상은 프랑스어 인사 고려
+MX,Mexico,멕시코,Americas,America/Mexico_City,2022년 대부분 지역 서머타임 폐지,Sat-Sun,Spanish,es,Sr. / Ing. / Lic. — 학위 호칭 매우 흔함,"성주간(Semana Santa), 12/12~1/6 과달루페~주현절",12월 중순부터 1월 초까지 길게 쉰다
+BR,Brazil,브라질,Americas,America/Sao_Paulo,서머타임 폐지(UTC-3 고정),Sat-Sun,Portuguese,pt,Sr. / Sra. — 실무는 퍼스트네임,"카니발 주간, 12월 중순~1월 말 여름휴가",남반구. 카니발 주간은 완전 정지
+AR,Argentina,아르헨티나,Americas,America/Argentina/Buenos_Aires,UTC-3 고정,Sat-Sun,Spanish,es,Sr. / Sra. / Ing.,"1~2월 여름휴가, 성주간",남반구
+CL,Chile,칠레,Americas,America/Santiago,서머타임 있음(남반구 기준 반대),Sat-Sun,Spanish,es,Sr. / Sra. / Ing.,"1~2월 여름휴가, 9/18 전후 1주",9월 국경일 주간은 완전 정지
+PE,Peru,페루,Americas,America/Lima,UTC-5 고정,Sat-Sun,Spanish,es,Sr. / Ing.,"7/28~29 전후, 성주간, 12월 말",
+CO,Colombia,콜롬비아,Americas,America/Bogota,UTC-5 고정,Sat-Sun,Spanish,es,Sr. / Ing. / Dr.,"12월 중순~1월 초, 성주간",공휴일을 월요일로 옮기는 제도가 있어 매년 날짜 확인
+EC,Ecuador,에콰도르,Americas,America/Guayaquil,UTC-5 고정,Sat-Sun,Spanish,es,Sr. / Ing.,"카니발, 12월 말",
+BO,Bolivia,볼리비아,Americas,America/La_Paz,UTC-4 고정,Sat-Sun,Spanish,es,Sr. / Ing.,"카니발, 12월 말",
+CR,Costa Rica,코스타리카,Americas,America/Costa_Rica,UTC-6 고정,Sat-Sun,Spanish,es,Sr. / Ing.,"성주간, 12월 말~1월 초",
+PA,Panama,파나마,Americas,America/Panama,UTC-5 고정,Sat-Sun,Spanish,es,Sr. / Ing.,"카니발 4일, 12월 말",
+GT,Guatemala,과테말라,Americas,America/Guatemala,UTC-6 고정,Sat-Sun,Spanish,es,Sr. / Ing.,"성주간(중남미 최대 규모), 12월 말",
+DO,Dominican Republic,도미니카공화국,Americas,America/Santo_Domingo,UTC-4 고정,Sat-Sun,Spanish,es,Sr. / Ing.,"카니발, 12월 말",
+LB,Lebanon,레바논,Middle East,Asia/Beirut,서머타임 있음,Sat-Sun,"Arabic, French, English",ar,Mr. / Eng. — 프랑스어 M. 도 통용,"라마단, 이드, 부활절(정교회·가톨릭 양쪽), 크리스마스",기독교·무슬림이 섞여 있어 상대 종파를 모르면 중립 표현. 정세·환율 불안정

@@ -1,0 +1,221 @@
+id,countries,name_en,name_local,romanization,type,tone,date_rule,date_2026,date_2027,date_2028,duration_days,greeting_local,greeting_romanized,greeting_meaning,send_window,notes
+ramadan-start,SA;AE;QA;KW;OM;BH;JO;IQ;TR;EG;MA;DZ;TN;LY;NG;SN;CI;ID;MY;BN;PK;BD;KZ;UZ;AZ;TM,Ramadan begins,رمضان,Ramadan,religious,neutral,moving,,2027-02-08,2028-01-28,30,رمضان كريم,Ramadan Kareem,너그러운 라마단,첫날~이틀 안에 한 번만,한 달 내내 반복 금지. 음식·음료 이미지 금지. 걸프는 법정 근무시간 단축(보통 6시간). ID/MY/PK/BD는 하루 늦을 수 있음
+eid-al-fitr,SA;AE;QA;KW;OM;BH;JO;IQ;TR;EG;MA;DZ;TN;LY;NG;SN;CI;KZ;UZ;AZ;TM,Eid al-Fitr,عيد الفطر,Eid al-Fitr,religious,celebratory,moving,,2027-03-09,2028-02-26,3,عيد مبارك,Eid Mubarak,복된 명절,당일 아침 또는 전날 저녁,무슬림 거래처 최대 인사 기회. 2028년 사우디 날짜는 26일/27일 출처 충돌 — 발송 전 재확인. 비무슬림이 보내도 환영받는다
+eid-al-fitr-seasia,ID;MY;SG;BN;PK;BD,Eid al-Fitr (SE Asia / South Asia),Hari Raya Aidilfitri / Idul Fitri,Hari Raya,religious,celebratory,moving,,2027-03-10,2028-02-27,2,"Selamat Hari Raya, Mohon Maaf Lahir dan Batin",Selamat Hari Raya,"즐거운 명절 되시고, 몸과 마음으로 지은 잘못을 용서하십시오",당일 아침,걸프보다 하루 늦다 — 한 날짜로 일괄 발송하면 반드시 틀린다. 인니는 SKB 장관합동령 전까지 잠정치
+eid-al-adha,SA;AE;QA;KW;OM;BH;JO;IQ;TR;EG;MA;DZ;TN;LY;NG;SN;CI;KZ;UZ;AZ;TM,Eid al-Adha,عيد الأضحى,Eid al-Adha,religious,celebratory,moving,,2027-05-16,2028-05-05,4,عيد أضحى مبارك,Eid Adha Mubarak,복된 희생절,당일 아침,두 번째로 큰 인사 기회. 사우디는 정부 휴일이 20일까지 이어짐
+eid-al-adha-seasia,ID;MY;SG;BN;PK;BD,Eid al-Adha (SE Asia / South Asia),Hari Raya Haji / Idul Adha,Hari Raya Haji,religious,celebratory,moving,,2027-05-17,2028-05-06,1,Selamat Hari Raya Haji,Selamat Hari Raya Haji,즐거운 하지 명절,당일 아침,2028년은 미고시 — 재확인
+day-of-arafah,SA;AE;QA;KW;OM;BH,Day of Arafah,يوم عرفة,Yawm Arafah,religious,solemn,moving,,2027-05-15,2028-05-04,1,,,,보내지 않는다,금식·순례의 날. 다음날 이드 알아드하 인사로 대신한다
+islamic-new-year,SA;AE;QA;KW;OM;BH;JO;IQ;EG;MA;DZ;TN;LY;NG;ID;MY;PK;BD,Islamic New Year,رأس السنة الهجرية,Ras as-Sanah al-Hijriyah,religious,neutral,moving,,2027-06-06,2028-05-25,1,كل عام وأنتم بخير,Kul aam wa antum bi-khair,해마다 평안하시기를,당일 오전,"연말 파티식 ""Happy New Year"" 톤 금지. 시아권은 이날부터 애도 기간 시작"
+ashura,IQ;BH;PK;IN;LB,Ashura,عاشوراء,Ashura,religious,solemn,moving,,2027-06-15,2028-06-03,1,,,,보내지 않는다,시아 최대 애도일(카르발라). 축하 표현은 심각한 결례. 수니권은 자발적 금식일
+mawlid,AE;QA;KW;OM;BH;JO;IQ;TR;EG;MA;DZ;TN;LY;NG;SN;CI;ID;MY;BN;PK;BD,Mawlid al-Nabi,المولد النبوي,Mawlid an-Nabi,religious,neutral,moving,,2027-08-15,2028-08-03,1,مولد نبوي شريف,Mawlid Nabawi Sharif,고귀한 예언자 탄신일,당일 오전,사우디·카타르는 지키지 않는다 — 두 나라엔 보내지 말 것
+isra-miraj,ID;MY;AE;JO;IQ;EG;PK,Isra and Mi'raj,الإسراء والمعراج,al-Isra wa-l-Miraj,religious,neutral,moving,,2027-01-05;2027-12-25,2028-12-14,1,,,,당일 오전,인니 공휴일. 2027년 12월 25일분은 크리스마스와 겹침 — 문안 분리 필요
+cny,CN;TW;HK;SG;MY,Chinese New Year,春节 / 農曆新年,Chunjie,cultural,celebratory,moving,,2027-02-06,2028-01-26,7,新年快乐 / 恭喜发财,Xinnian kuaile / Gongxi facai,새해 복 많이 / 돈 많이 버시길,3~5일 전,춘절 전 2주부터 업무가 멈춘다. 인사보다 납기·일정 확인이 먼저. 홍콩·대만은 번체 표기 사용
+seollal,KR,Seollal,설날,Seollal,cultural,celebratory,moving,,2027-02-06,2028-01-26,3,새해 복 많이 받으세요,Saehae bok mani badeuseyo,새해에 복 많이 받으세요,3일 전,2028년은 26일/27일 출처 충돌 — 한국천문연구원 기준 재확인
+tet,VN,Tết Nguyên Đán,Tết Nguyên Đán,Tet,cultural,celebratory,moving,,2027-02-06,2028-01-26,7,Chúc Mừng Năm Mới,Chuc Mung Nam Moi,새해를 축하합니다,5일 전,베트남 최대 명절. 뗏 2주 전부터 업무가 사실상 멈춘다. 휴일 범위는 매년 정부 결정
+mid-autumn,CN;TW;HK;SG;MY;VN,Mid-Autumn Festival,中秋节 / Tết Trung Thu,Zhongqiu jie,cultural,celebratory,moving,,2027-09-15,2028-10-03,1,中秋节快乐,Zhongqiu jie kuaile,중추절 즐겁게 보내세요,1~2일 전,중화권 두 번째로 중요한 B2B 인사. 월병 선물 관행
+chuseok,KR,Chuseok,추석,Chuseok,cultural,celebratory,moving,,2027-09-15,2028-10-03,3,풍성한 한가위 되세요,Pungseonghan hangawi doeseyo,풍성한 추석 되세요,2일 전,한국 거래처가 먼저 보내오는 경우가 많다
+qingming,CN;HK;TW,Qingming / Tomb-Sweeping Day,清明节,Qingming jie,cultural,solemn,moving,,2027-04-05,2028-04-04,1,,,,보내지 않는다,성묘·조상 추모일. 축하 표현 금지
+duanwu,CN;HK;TW,Dragon Boat Festival,端午节,Duanwu jie,cultural,celebratory,moving,,2027-06-09,2028-05-28,1,端午安康,Duanwu ankang,단오에 평안하시길,당일 오전,快乐(즐겁게)보다 安康(평안)이 더 적절하다는 인식이 퍼져 있다
+chung-yeung,HK,Chung Yeung Festival,重陽節,Chung Yeung,cultural,neutral,moving,2026-10-18,2027-10-08,,1,,,,보내지 않거나 절제된 문장,조상 참배·경로의 날. 홍콩 공휴일
+diwali,IN;LK;MY,Diwali / Deepavali,दीपावली,Dipavali,religious,celebratory,moving,2026-11-08,2027-10-29,2028-10-17,5,दीपावली की शुभकामनाएं,Dipavali ki shubhkamnaen,디왈리 축하드립니다,1~2일 전,인도 최대 B2B 인사. 상인 가문은 이날이 회계 신년. 국가별 날짜가 달라 일괄 발송 금물
+deepavali-sg,SG,Deepavali (Singapore),தீபாவளி,Deepavali,religious,celebratory,moving,2026-11-08,2027-10-28,,1,தீபாவளி வாழ்த்துக்கள்,Deepavali valthukkal,디파발리 축하드립니다,1일 전,2027년은 인도보다 하루 이르다
+dhanteras,IN,Dhanteras,धनतेरस,Dhanteras,religious,celebratory,moving,2026-11-06,2027-10-27,,1,शुभ धनतेरस,Shubh Dhanteras,상서로운 단테라스,당일 오전,구매·계약이 상서롭다고 여겨지는 날 — 거래처에 호의를 표하기 좋은 날
+holi,IN;NP,Holi,होली,Holi,cultural,celebratory,moving,,2027-03-22,2028-03-11,1,होली की शुभकामनाएं,Holi ki shubhkamnaen,홀리 축하드립니다,당일 오전,색을 뿌리는 축제 — 밝은 톤이 어울린다
+dussehra,IN,Dussehra / Vijayadashami,दशहरा,Dussehra,religious,celebratory,moving,2026-10-20,2027-10-09,2028-09-27,1,विजयादशमी की शुभकामनाएं,Vijayadashami ki shubhkamnaen,비자야다샤미 축하드립니다,당일 오전,벵골권은 두르가 푸자로 5일가량 휴무
+ganesh-chaturthi,IN,Ganesh Chaturthi,गणेश चतुर्थी,Ganesha Chaturthi,religious,celebratory,moving,,2027-09-04,2028-08-23,10,गणेश चतुर्थी की शुभकामनाएं,Ganesh Chaturthi ki shubhkamnaen,가네시 차투르티 축하드립니다,당일 오전,뭄바이·마하라슈트라 최대 축제. 이 기간 뭄바이 업무가 느려진다
+onam,IN,Onam,ഓണം,Onam,cultural,celebratory,moving,,2027-09-12,2028-09-01,10,ഓണാശംസകൾ,Onashamsakal,오남 축하드립니다,당일 오전,케랄라(코치) 거래처 전용
+navratri-start,IN,Sharad Navratri begins,नवरात्रि,Navratri,religious,neutral,moving,2026-10-11,2027-09-30,,9,नवरात्रि की शुभकामनाएं,Navratri ki shubhkamnaen,나브라트리 축하드립니다,첫날 오전,9일간 금식과 축제가 섞인 기간 — 절제된 톤
+maha-shivaratri,IN;NP,Maha Shivaratri,महाशिवरात्रि,Maha Shivaratri,religious,solemn,moving,,2027-03-06,2028-02-23,1,,,,보내지 않거나 절제된 문장,밤샘 기도와 금식의 날. 축하 표현 부적절
+pongal-sankranti,IN,Pongal / Makar Sankranti,தைப்பொங்கல் / मकर संक्रांति,Thai Pongal,cultural,celebratory,fixed:01-14,,,,4,இனிய பொங்கல் வாழ்த்துக்கள்,Iniya Pongal valthukkal,행복한 퐁갈 되세요,당일 오전,연도에 따라 1/14 또는 1/15 — 남인도(타밀나두) 중심
+vaisakhi,IN,Vaisakhi / Baisakhi,ਵਿਸਾਖੀ,Vaisakhi,cultural,celebratory,fixed:04-14,,,,1,ਵਿਸਾਖੀ ਦੀਆਂ ਵਧਾਈਆਂ,Vaisakhi diyan vadhaiyan,바이사키 축하드립니다,당일 오전,펀자브·시크 신년이자 수확절. 4/13 또는 4/14
+vesak-theravada,LK;TH;SG;MY;ID;IN;NP,Vesak Day,වෙසක් / วิสาขบูชา,Vesak,religious,neutral,moving,,2027-05-20,,2,,,복된 베삭 되시기를,당일 오전,"""Happy""보다 ""Blessed Vesak"". 스리랑카·태국은 주류 판매 금지일"
+buddha-birthday-mahayana,KR;HK;TW,Buddha's Birthday,부처님오신날 / 佛誕,Bucheonim osin nal,religious,neutral,moving,,2027-05-13,2028-05-05,1,,,,당일 오전,상좌부권(태국·스리랑카)과 날짜가 다르다. 2028 한국 날짜는 재확인 필요
+songkran,TH,Songkran,สงกรานต์,Songkran,cultural,celebratory,fixed:04-13,,,,3,สวัสดีปีใหม่,Sawasdee Pi Mai,새해 안녕하세요,전날 또는 첫날 오전,태국 최대 연휴. 정부가 12~16일로 늘리는 해가 많다
+thingyan,MM,Thingyan,သင်္ကြန်,Thingyan,cultural,celebratory,fixed:04-13,,,,4,နှစ်သစ်ကူး မင်္ဂလာပါ,Hnit thit ku mingalaba,새해 축복이 있기를,첫날 오전,정치 언급 금지
+lao-new-year,LA,Boun Pi Mai,ບຸນປີໃໝ່,Boun Pi Mai,cultural,celebratory,fixed:04-14,,,,3,ສະບາຍດີປີໃໝ່,Sabaidee Pi Mai,새해 안녕하세요,첫날 오전,
+khmer-new-year,KH,Khmer New Year,ចូលឆ្នាំថ្មី,Chaul Chnam Thmey,cultural,celebratory,fixed:04-14,,,,3,សួស្តីឆ្នាំថ្មី,Sour sdey chnam thmey,새해 안녕하세요,첫날 오전,4/13 또는 4/14 — ±1일 확인
+sinhala-tamil-new-year,LK,Sinhala and Tamil New Year,අලුත් අවුරුද්ද,Aluth Avurudda,cultural,celebratory,fixed:04-14,,,,2,සුබ අලුත් අවුරුද්දක් වේවා,Suba aluth avuruddak wewa,행복한 새해 되시기를,첫날 오전,천문 계산으로 매년 발표 — ±1일 확인
+loy-krathong,TH,Loy Krathong,ลอยกระทง,Loy Krathong,cultural,celebratory,moving,2026-11-24,2027-11-14,,1,สุขสันต์วันลอยกระทง,Suksan wan Loy Krathong,즐거운 러이끄라통 되세요,당일 오전,공휴일은 아니지만 문화적으로 큰 날
+good-friday,GB;IE;DE;FR;IT;ES;PT;NL;BE;AT;CH;PL;AU;NZ;ZA;BR;MX;AR;CL;PE;CO;PH;SG;HK;IN;KE;NG;GH,Good Friday,,,religious,solemn,moving,,2027-03-26,2028-04-14,1,,,,보내지 않는다,수난일. 인사는 부활절 일요일로 미룬다
+easter,GB;IE;DE;FR;IT;ES;PT;NL;BE;AT;CH;PL;CZ;HU;SK;HR;AU;NZ;ZA;BR;MX;AR;CL;PE;CO;EC;PA;CR;GT;DO;PH;US;CA,Easter Sunday,,,religious,celebratory,moving,,2027-03-28,2028-04-16,1,Frohe Ostern / Joyeuses Pâques / Felices Pascuas,,행복한 부활절,전날 또는 당일 오전,2027년은 정교회 부활절과 5주 차이 — 한 번에 보내면 그리스·러시아·루마니아·세르비아가 빠진다
+orthodox-good-friday,GR;RU;UA;RS;BG;RO;GE;ET;AM,Orthodox Good Friday,,,religious,solemn,moving,,2027-04-30,2028-04-14,1,,,,보내지 않는다,
+orthodox-easter,GR;RU;UA;RS;BG;RO;GE;ET;AM,Orthodox Easter (Pascha),Χριστός Ανέστη / Христос воскресе,Christos Anesti / Khristos voskrese,religious,celebratory,moving,,2027-05-02,2028-04-16,1,Χρόνια Πολλά,Chronia Polla,오래 사시기를(만능 축하 표현),전날 또는 당일 오전,2028년은 서방 부활절과 같은 날(4/16). 2027년은 5주 차이
+ascension,DE;FR;NL;BE;CH;DK;SE;NO;FI;ID,Ascension Day,Christi Himmelfahrt,,religious,neutral,moving,,2027-05-06,2028-05-25,1,,,,인사보다 휴무 확인용,독일은 이날이 아버지의 날(Vatertag)이기도 하다
+whit-monday,DE;FR;AT;BE;NL;CH;DK;HU;NO,Whit Monday,Pfingstmontag / Lundi de Pentecôte,,religious,neutral,moving,,2027-05-17,2028-06-05,1,,,,인사보다 휴무 확인용,유럽 다수 국가 공휴일
+carnival,BR,Carnival,Carnaval,Carnaval,cultural,celebratory,moving,,2027-02-05,2028-02-25,6,Bom Carnaval,Bom Carnaval,좋은 카니발 되세요,직전 금요일,브라질 전체가 멈춘다 — 세관·항만·관공서 포함. 납기 일정에 반드시 반영
+rosenmontag,DE,Rosenmontag,Rosenmontag,,cultural,celebratory,moving,,2027-02-08,2028-02-28,1,,,,인사보다 휴무 확인용,쾰른·뒤셀도르프·마인츠 지역 업무 중단
+rosh-hashanah,IL,Rosh Hashanah,ראש השנה,Rosh HaShanah,religious,celebratory,moving,,2027-10-01,2028-09-20,2,שנה טובה,Shanah Tovah,좋은 한 해 되시기를,전날 오후 전까지,해질녘에 시작 — 전날 낮에 보낸다. 파티식 신년 톤은 부적절
+yom-kippur,IL,Yom Kippur,יום כיפור,Yom Kippur,religious,solemn,moving,,2027-10-10,2028-09-29,1,גמר חתימה טובה,G'mar Chatimah Tovah,좋은 결말로 기록되시기를,보내지 않거나 전날 낮,속죄의 금식일. 이스라엘 전체가 멈춘다(항공·방송·교통 중단). 축하 표현 절대 금지
+hanukkah,IL,Hanukkah,חנוכה,Chanukah,religious,celebratory,moving,2026-12-04,2027-12-24,2028-12-12,8,חג אורים שמח,Chag Urim Sameach,빛의 축제 즐겁게,첫날 낮,2027년은 크리스마스이브에 시작 — 연말 인사와 문안 분리
+passover,IL,Passover,פסח,Pesach,religious,celebratory,moving,,2027-04-21,2028-04-10,8,חג פסח שמח,Chag Pesach Sameach,즐거운 유월절 되세요,전날 낮,이스라엘 업무 대부분 중단
+nowruz,AZ;KZ;UZ;TM;IQ;TR,Nowruz,نوروز / Novruz,Nowruz,cultural,celebratory,moving,,2027-03-21,2028-03-20,5,نوروز مبارک,Nowruz Mubarak,복된 새해,전날 또는 당일 오전,"±1일 국가차 있음. 터키·이라크에서는 쿠르드 정체성과 얽혀 민감 — 해당 거래처 성격 확인. 중앙아시아는 2~5일, 아제르바이잔은 5~6일 휴무"
+us-thanksgiving,US,Thanksgiving,,,national,celebratory,moving,2026-11-26,2027-11-25,2028-11-23,1,,,,1~2일 전,미국 거래처에 가장 무난하고 효과 좋은 인사. 종교색이 없고 감사를 주제로 한다
+ca-thanksgiving,CA,Canadian Thanksgiving,,,national,celebratory,moving,2026-10-12,2027-10-11,2028-10-09,1,,,,1~2일 전,미국보다 6주 빠르다 — 혼동 주의
+us-memorial-day,US,Memorial Day,,,national,solemn,moving,,2027-05-31,2028-05-29,1,,,,보내지 않는다,"전몰자 추모일. 비즈니스 메일에서 ""Happy Memorial Day""는 실례"
+us-labor-day,US;CA,Labor Day,,,national,neutral,moving,2026-09-07,2027-09-06,2028-09-04,1,,,,인사보다 휴무 확인용,
+new-year,SA;AE;QA;KW;OM;BH;JO;IQ;TR;EG;MA;TN;NG;GH;KE;TZ;ZA;SN;CI;KR;JP;CN;TW;HK;MN;ID;MY;SG;VN;TH;PH;MM;KH;LA;BN;IN;PK;BD;LK;NP;AU;NZ;DE;FR;IT;ES;PT;NL;BE;GB;IE;SE;NO;DK;FI;AT;CH;GR;PL;CZ;HU;RO;BG;RS;HR;SK;RU;UA;KZ;UZ;AZ;GE;AM;TM;US;CA;MX;BR;AR;CL;PE;CO;EC;BO;CR;PA;GT;DO,New Year's Day,,,national,celebratory,fixed:01-01,,,,1,,,,12/20~30 사이,"""Merry Christmas""가 부담스러운 상대에게 쓰는 만능 카드. 러시아·CIS는 크리스마스보다 신년이 훨씬 크다"
+christmas,DE;FR;IT;ES;PT;NL;BE;GB;IE;SE;NO;DK;FI;AT;CH;PL;CZ;HU;RO;HR;SK;US;CA;MX;BR;AR;CL;PE;CO;EC;BO;CR;PA;GT;DO;PH;AU;NZ;ZA;KE;TZ;NG;GH;SG;HK;LB,Christmas Day,,,religious,celebratory,fixed:12-25,,,,1,Frohe Weihnachten / Joyeux Noël / Feliz Navidad,,메리 크리스마스,12/18~23,"상대의 종교를 모르면 ""Season's Greetings""나 신년 인사로 대체. 무슬림·유대·힌두권에 크리스마스 인사는 부적절"
+orthodox-christmas,RU;RS;GE;ET;UA,Orthodox Christmas,Рождество Христово,Rozhdestvo,religious,celebratory,fixed:01-07,,,,1,С Рождеством,S Rozhdestvom,성탄을 축하합니다,1/5~6,우크라이나는 2023년부터 12/25로 이동한 곳이 많다 — 상대에게 확인
+labour-day,DE;FR;IT;ES;PT;NL;BE;AT;CH;GR;PL;CZ;HU;RO;BG;RS;HR;SK;RU;UA;KZ;UZ;AZ;GE;AM;CN;VN;TH;MY;SG;ID;PH;IN;LK;BD;PK;ZA;KE;NG;EG;TR;MA;DZ;TN;BR;AR;CL;PE;CO;EC;BO;MX;CR;PA;GT;DO,Labour Day,,,national,neutral,fixed:05-01,,,,1,,,,인사보다 휴무 확인용,미국·캐나다는 9월 첫 월요일로 다르다
+sa-founding-day,SA,Saudi Founding Day,يوم التأسيس,Yawm at-Tasees,national,celebratory,fixed:02-22,,,,1,كل عام وأنتم بخير,Kul aam wa antum bi-khair,해마다 평안하시기를,당일 오전,2022년 신설. 제1사우디국(1727) 건국 기념
+sa-national-day,SA,Saudi National Day,اليوم الوطني,al-Yawm al-Watani,national,celebratory,fixed:09-23,,,,1,يوم وطني سعيد,Yawm watani saeed,행복한 국경일,당일 오전,녹색 장식이 상징. 순수 경축일로 안전
+ae-commemoration-day,AE,Commemoration Day,يوم الشهيد,Yawm ash-Shahid,national,solemn,fixed:11-30,,,,1,,,,보내지 않는다,순직 군인 추모일. 이틀 뒤 건국기념일과 정반대 톤 — 절대 섞지 말 것
+ae-national-day,AE,UAE National Day,اليوم الوطني,al-Yawm al-Watani,national,celebratory,fixed:12-02,,,,2,عاش الاتحاد,Ash al-Ittihad,연방이여 영원하라,당일 오전,UAE에서 가장 널리 환영받는 경축일. 협력사가 축하 메시지를 보내는 게 관례
+qa-national-day,QA,Qatar National Day,اليوم الوطني,al-Yawm al-Watani,national,celebratory,fixed:12-18,,,,1,كل عام وقطر بخير,Kul aam wa Qatar bi-khair,해마다 카타르가 평안하기를,당일 오전,
+kw-national-day,KW,Kuwait National Day,العيد الوطني,al-Eid al-Watani,national,celebratory,fixed:02-25,,,,2,عيد وطني سعيد,Eid watani saeed,행복한 국경일,당일 오전,2/26 해방기념일과 연달아 2~4일 연휴
+kw-liberation-day,KW,Liberation Day,يوم التحرير,Yawm at-Tahrir,national,neutral,fixed:02-26,,,,1,,,,당일 오전,1991년 이라크 점령 해방 기념 — 자랑스러움과 전쟁 기억이 섞인 날. 순수 축하보다 존중하는 톤
+om-national-day,OM,Oman National Day,العيد الوطني,al-Eid al-Watani,national,celebratory,fixed:11-20,,,,2,كل عام وعُمان بخير,Kul aam wa Uman bi-khair,해마다 오만이 평안하기를,당일 오전,날짜가 최근 두 번 바뀌었다(구 11/18). 실제 유급 휴일은 해마다 관보로 다르다 — 반드시 그해 관보 확인 후 발송
+bh-national-day,BH,Bahrain National Day,اليوم الوطني,al-Yawm al-Watani,national,celebratory,fixed:12-16,,,,2,كل عام والبحرين بخير,Kul aam wal-Bahrain bi-khair,해마다 바레인이 평안하기를,당일 오전,국내 정치·종파 관련 표현은 일절 피하고 일반적 축하만
+jo-independence,JO,Jordan Independence Day,عيد الاستقلال,Eid al-Istiqlal,national,celebratory,fixed:05-25,,,,1,عيد استقلال سعيد,Eid istiqlal saeed,행복한 독립기념일,당일 오전,
+iq-national-day,IQ,Iraq National Day,العيد الوطني,al-Eid al-Watani,national,celebratory,fixed:10-03,,,,1,كل عام وأنتم بخير,Kul aam wa antum bi-khair,해마다 평안하시기를,당일 오전,이라크는 단일 국경일이 정립돼 있지 않다. 10/3이 가장 안전. 4/9(바그다드 함락)은 절대 언급 금지
+tr-republic-day,TR,Republic Day,Cumhuriyet Bayramı,Cumhuriyet Bayrami,national,celebratory,fixed:10-29,,,,1,Cumhuriyet Bayramınız kutlu olsun,Cumhuriyet Bayraminiz kutlu olsun,공화국 기념일을 축하합니다,전날 저녁 또는 당일 오전,터키 최대 국경일. 100주년 이후 상징성이 더 커졌다
+tr-ataturk-memorial,TR,Atatürk Memorial Day,10 Kasım,On Kasim,national,solemn,fixed:11-10,,,,1,,,,보내지 않는다,오전 9시 5분 전국이 사이렌과 함께 멈춘다. 그날 아침 축하성 메시지는 최악
+tr-victory-day,TR,Victory Day,Zafer Bayramı,Zafer Bayrami,national,celebratory,fixed:08-30,,,,1,Zafer Bayramınız kutlu olsun,Zafer Bayraminiz kutlu olsun,전승기념일을 축하합니다,당일 오전,
+tr-youth-sports-day,TR,Commemoration of Atatürk / Youth and Sports Day,19 Mayıs,On Dokuz Mayis,national,celebratory,fixed:05-19,,,,1,19 Mayıs kutlu olsun,On Dokuz Mayis kutlu olsun,5월 19일을 축하합니다,당일 오전,
+eg-national-day,EG,Egypt National Day (Revolution Day),عيد ثورة 23 يوليو,Eid Thawrat 23 Yulyu,national,celebratory,fixed:07-23,,,,1,كل عام ومصر بخير,Kul aam wa Misr bi-khair,해마다 이집트가 평안하기를,당일 오전,1/25와 6/30은 정치적으로 대립하는 날 — 둘 다 건드리지 말고 7/23만 쓴다
+ma-throne-day,MA,Throne Day,عيد العرش / Fête du Trône,Eid al-Arsh,national,celebratory,fixed:07-30,,,,1,Bonne fête du Trône,,즉위 기념일을 축하합니다,당일 오전,모로코의 사실상 국경일
+ma-independence,MA,Morocco Independence Day,عيد الاستقلال,Eid al-Istiqlal,national,celebratory,fixed:11-18,,,,1,Joyeuse fête de l'Indépendance,,독립기념일을 축하합니다,당일 오전,11/6 녹색행진일은 알제리 거래처가 볼 수 있는 채널에서 절대 언급 금지
+dz-independence,DZ,Algeria Independence Day,عيد الاستقلال,Eid al-Istiqlal,national,celebratory,fixed:07-05,,,,1,Joyeuse fête de l'Indépendance,,독립기념일을 축하합니다,당일 오전,
+dz-revolution-day,DZ,Revolution Day,عيد الثورة,Eid ath-Thawra,national,neutral,fixed:11-01,,,,1,,,,당일 오전,1954년 독립전쟁 개시일 — 경축과 추모가 섞인 톤
+tn-independence,TN,Tunisia Independence Day,عيد الاستقلال,Eid al-Istiqlal,national,celebratory,fixed:03-20,,,,1,Joyeuse fête de l'Indépendance,,독립기념일을 축하합니다,당일 오전,1/14와 12/17 혁명기념일은 정치적 논쟁 중 — 둘 다 피한다
+ly-independence,LY,Libya Independence Day,عيد الاستقلال,Eid al-Istiqlal,national,celebratory,fixed:12-24,,,,1,عيد استقلال سعيد,Eid istiqlal saeed,행복한 독립기념일,당일 오전,정세 불안정 — 달력 신뢰도 낮음
+ng-independence,NG,Nigeria Independence Day,,,national,celebratory,fixed:10-01,,,,1,Barka da ranar 'yancin kai,,독립일을 축하합니다,당일 오전,5/30 비아프라 추모일은 절대 언급 금지
+gh-independence,GH,Ghana Independence Day,,,national,celebratory,fixed:03-06,,,,1,,,,당일 오전,아프리카 최초 독립국이라는 자부심. 8/4 vs 9/21 건국일 논쟁은 피하고 3/6만 쓴다
+sn-independence,SN,Senegal Independence Day,Fête de l'Indépendance,,national,celebratory,fixed:04-04,,,,1,Bonne fête de l'Indépendance,,독립기념일을 축하합니다,당일 오전,
+ci-independence,CI,Côte d'Ivoire Independence Day,Fête de l'Indépendance,,national,celebratory,fixed:08-07,,,,1,Bonne fête de l'Indépendance,,독립기념일을 축하합니다,당일 오전,8월은 프랑스식 연차 시즌 — 의사결정자 부재
+ke-jamhuri,KE,Jamhuri Day,,,national,celebratory,fixed:12-12,,,,1,Heri ya Jamhuri,,공화국의 날을 축하합니다,당일 오전,케냐 독립기념일
+ke-madaraka,KE,Madaraka Day,,,national,celebratory,fixed:06-01,,,,1,Heri ya Madaraka,,자치의 날을 축하합니다,당일 오전,
+ke-mashujaa,KE,Mashujaa Day,,,national,solemn,fixed:10-20,,,,1,,,,절제된 문장 또는 생략,독립을 위해 죽은 이들을 기리는 날 — 존중하는 톤
+tz-independence,TZ,Tanzania Independence Day,,,national,celebratory,fixed:12-09,,,,1,Heri ya Uhuru,,독립을 축하합니다,당일 오전,1/12 잔지바르 혁명일은 섬 지역에서 민감
+et-enkutatash,ET,Enkutatash (Ethiopian New Year),እንቁጣጣሽ,Enkutatash,cultural,celebratory,fixed:09-11,,,,1,መልካም አዲስ ዓመት,Melkam Addis Amet,좋은 새해 되세요,당일 오전,에티오피아 고유 달력 — 윤년엔 9/12
+et-meskel,ET,Meskel,መስቀል,Meskel,religious,celebratory,fixed:09-27,,,,1,መልካም መስቀል,Melkam Meskel,좋은 메스켈 되세요,당일 오전,윤년엔 9/28. 종족·정치 프레임은 일절 피한다
+za-freedom-day,ZA,Freedom Day,,,national,celebratory,fixed:04-27,,,,1,,,,당일 오전,1994년 첫 민주선거 기념
+za-heritage-day,ZA,Heritage Day,,,national,celebratory,fixed:09-24,,,,1,,,,당일 오전,"""Braai Day""로도 불린다 — 밝은 톤 가능"
+za-youth-day,ZA,Youth Day,,,national,solemn,fixed:06-16,,,,1,,,,보내지 않는다,소웨토 항쟁에서 학생들이 사망한 날
+za-human-rights-day,ZA,Human Rights Day,,,national,solemn,fixed:03-21,,,,1,,,,보내지 않는다,샤프빌 학살 기념일
+za-reconciliation-day,ZA,Day of Reconciliation,,,national,neutral,fixed:12-16,,,,1,,,,절제된 문장 또는 생략,남아공 연말 셧다운 시작 시점과 겹친다
+us-independence,US,Independence Day,,,national,celebratory,fixed:07-04,,,,1,,,,전날 또는 당일 오전,
+ca-canada-day,CA,Canada Day,Fête du Canada,,national,celebratory,fixed:07-01,,,,1,Bonne fête du Canada,,캐나다의 날을 축하합니다,당일 오전,퀘벡 거래처에는 프랑스어 인사 고려
+mx-independence,MX,Mexican Independence Day,Grito de Dolores,,national,celebratory,fixed:09-16,,,,1,¡Felices Fiestas Patrias!,,행복한 국경일 되세요,전날 저녁 또는 당일 오전,"9/15 밤 ""그리토"" 의식부터 시작. 브라질(9/7)·칠레(9/18)와 혼동 주의"
+mx-revolution-day,MX,Revolution Day,Día de la Revolución,,national,celebratory,fixed:11-20,,,,1,,,,당일 오전,
+mx-dia-de-muertos,MX,Day of the Dead,Día de Muertos,,cultural,neutral,fixed:11-02,,,,2,,,,절제된 문장 또는 생략,애도가 아니라 기림의 축제지만 외국 기업이 가볍게 다루면 어색하다. 법정 공휴일은 아님
+br-independence,BR,Brazil Independence Day,Dia da Independência,,national,celebratory,fixed:09-07,,,,1,Feliz Dia da Independência,,독립기념일을 축하합니다,당일 오전,
+ar-independence,AR,Argentina Independence Day,Día de la Independencia,,national,celebratory,fixed:07-09,,,,1,¡Feliz Día de la Independencia!,,독립기념일을 축하합니다,당일 오전,
+ar-dia-de-la-memoria,AR,Day of Remembrance for Truth and Justice,Día de la Memoria,,national,solemn,fixed:03-24,,,,1,,,,보내지 않는다,군사정권 희생자 추모일
+cl-fiestas-patrias,CL,Fiestas Patrias,Fiestas Patrias,,national,celebratory,fixed:09-18,,,,2,¡Felices Fiestas Patrias!,,행복한 국경일 되세요,전날 또는 당일 오전,"9/15~22 ""엘 디에시오초"" 주간은 업무 완전 중단. 9/11(1973 쿠데타)은 절대 언급 금지"
+pe-fiestas-patrias,PE,Fiestas Patrias,Fiestas Patrias,,national,celebratory,fixed:07-28,,,,2,¡Felices Fiestas Patrias!,,행복한 국경일 되세요,당일 오전,7월 말 한 주 업무 중단. 6/7·10/8은 칠레와의 전쟁 기념일 — 칠레와 같은 문안 재사용 금지
+co-independence,CO,Colombia Independence Day,Día de la Independencia,,national,celebratory,fixed:07-20,,,,1,¡Feliz Día de la Independencia!,,독립기념일을 축하합니다,당일 오전,월요일 이전 제도(Ley Emiliani)로 다른 공휴일은 날짜가 옮겨진다
+ec-independence,EC,Ecuador Independence Day,Primer Grito de Independencia,,national,celebratory,fixed:08-10,,,,1,¡Feliz Día de la Independencia!,,독립기념일을 축하합니다,당일 오전,
+bo-independence,BO,Bolivia Independence Day,Día de la Patria,,national,celebratory,fixed:08-06,,,,1,¡Jallalla Bolivia!,,볼리비아 만세,당일 오전,
+cr-independence,CR,Costa Rica Independence Day,Día de la Independencia,,national,celebratory,fixed:09-15,,,,1,¡Feliz Día de la Independencia!,,독립기념일을 축하합니다,당일 오전,
+gt-independence,GT,Guatemala Independence Day,Día de la Independencia,,national,celebratory,fixed:09-15,,,,1,¡Feliz Día de la Independencia!,,독립기념일을 축하합니다,당일 오전,
+pa-independence,PA,Panama Separation Day,Separación de Panamá de Colombia,,national,celebratory,fixed:11-03,,,,1,¡Felices Fiestas Patrias!,,행복한 국경일 되세요,당일 오전,11/3(콜롬비아로부터·1903)과 11/28(스페인으로부터·1821)은 다른 날. 1/9 순교자의 날과 12/20 국가애도일은 추모일
+do-independence,DO,Dominican Independence Day,Día de la Independencia,,national,celebratory,fixed:02-27,,,,1,¡Feliz Día de la Independencia!,,독립기념일을 축하합니다,당일 오전,스페인이 아니라 아이티로부터의 독립(1844) — 문안에서 틀리기 쉬움
+anzac-day,AU;NZ,ANZAC Day,,,national,solemn,fixed:04-25,,,,1,Lest we forget,,잊지 않겠습니다,보내지 않거나 추모 문장,"전몰자 추모일. ""Happy ANZAC Day""는 대표적 결례"
+remembrance-day,GB;CA;AU;NZ;ZA,Remembrance Day,,,national,solemn,fixed:11-11,,,,1,Lest we forget,,잊지 않겠습니다,보내지 않거나 추모 문장,
+mm-independence,MM,Myanmar Independence Day,လွတ်လပ်ရေးနေ့,Lut Lat Yay Nay,national,celebratory,fixed:01-04,,,,1,,,,당일 오전,정치 언급 금지. 2/12·3/27은 군정 관련일로 절대 언급 금지
+in-republic-day,IN,Republic Day,गणतंत्र दिवस,Gantantra Diwas,national,celebratory,fixed:01-26,,,,1,गणतंत्र दिवस की शुभकामनाएं,Gantantra Diwas ki shubhkamnaen,공화국의 날 축하드립니다,당일 오전,
+au-australia-day,AU,Australia Day,,,national,neutral,fixed:01-26,,,,1,,,,보내지 않거나 중립 문장,"원주민에게는 ""침략의 날"" — 경축 캠페인 금지"
+bd-language-martyrs,BD,Language Martyrs' Day,শহীদ দিবস,Shohid Dibosh,national,solemn,fixed:02-21,,,,1,,,,보내지 않는다,언어 운동 순국자 추모일. 유네스코 세계 모국어의 날
+lk-independence,LK,Sri Lanka Independence Day,නිදහස් දිනය,Nidahas Dinaya,national,celebratory,fixed:02-04,,,,1,,,,당일 오전,싱할라·타밀 양쪽 감정이 얽힌 날 — 영어로 담백하게
+nz-waitangi,NZ,Waitangi Day,,,national,neutral,fixed:02-06,,,,1,,,,중립 문장 또는 생략,조약 기념일 — 경축보다 중립
+bn-national-day,BN,Brunei National Day,Hari Kebangsaan,,national,celebratory,fixed:02-23,,,,1,Selamat Hari Kebangsaan,,국경일을 축하합니다,당일 오전,
+tw-peace-memorial,TW,Peace Memorial Day,和平紀念日,,national,solemn,fixed:02-28,,,,1,,,,보내지 않는다,228 사건 희생자 추모일
+pk-pakistan-day,PK,Pakistan Day,یوم پاکستان,Yaum-e-Pakistan,national,celebratory,fixed:03-23,,,,1,,,,당일 오전,2/5 카슈미르 연대의 날은 인도에 대한 정치 표명 — 절대 언급 금지
+bd-independence,BD,Bangladesh Independence Day,স্বাধীনতা দিবস,Shadhinota Dibosh,national,celebratory,fixed:03-26,,,,1,শুভ স্বাধীনতা দিবস,Shubho Shadhinota Dibosh,독립기념일을 축하합니다,당일 오전,2024년 정권 교체 후 공휴일 목록이 크게 바뀌었다 — 내각사무처 관보 확인
+vn-reunification,VN,Reunification Day,Ngày Giải phóng miền Nam,,national,neutral,fixed:04-30,,,,1,,,,중립 문장 또는 생략,국내에서는 경축일이지만 재외 베트남계에는 정반대 의미 — 채널 분리
+jp-golden-week,JP,Golden Week,ゴールデンウィーク,,national,neutral,fixed:04-29,,,,7,,,,인사보다 휴무 확인용,4/29~5/5 연휴. 이 기간 일본 업무 정지
+np-republic-day,NP,Nepal Republic Day,गणतन्त्र दिवस,,national,celebratory,fixed:05-29,,,,1,,,,당일 오전,
+id-pancasila,ID,Pancasila Day,Hari Lahir Pancasila,,national,celebratory,fixed:06-01,,,,1,,,,당일 오전,
+ph-independence,PH,Philippines Independence Day,Araw ng Kalayaan,,national,celebratory,fixed:06-12,,,,1,Maligayang Araw ng Kalayaan,,독립기념일을 축하합니다,당일 오전,
+hk-establishment-day,HK,HKSAR Establishment Day,香港特別行政區成立紀念日,,national,neutral,fixed:07-01,,,,1,,,,중립 문장 또는 생략,경축일이자 시위 기념일 — 정치적 표현 금지
+mn-naadam,MN,Naadam Festival,Наадам,Naadam,cultural,celebratory,fixed:07-11,,,,5,Сайхан наадаарай,Saikhan naadaaray,즐거운 나담 되세요,전날 또는 첫날 오전,몽골 최대 축제 — 5~7일 업무 중단
+sg-national-day,SG,Singapore National Day,,,national,celebratory,fixed:08-09,,,,1,Happy National Day,,국경일을 축하합니다,당일 오전,다민족 국가 — 영어가 기본
+pk-independence,PK,Pakistan Independence Day,یوم آزادی,Yaum-e-Azadi,national,celebratory,fixed:08-14,,,,1,یوم آزادی مبارک,Yaum-e-Azadi Mubarak,독립기념일을 축하합니다,당일 오전,인도(8/15)와 같은 메일에 절대 함께 넣지 말 것 — 분단의 기억
+in-independence,IN,India Independence Day,स्वतंत्रता दिवस,Swatantrata Diwas,national,celebratory,fixed:08-15,,,,1,स्वतंत्रता दिवस की शुभकामनाएं,Swatantrata Diwas ki shubhkamnaen,독립기념일을 축하합니다,당일 오전,파키스탄(8/14)과 채널 분리. 같은 날 일본은 추모일
+jp-end-of-war,JP,End of War Memorial Day,終戦記念日,Shusen kinenbi,national,solemn,fixed:08-15,,,,1,,,,보내지 않는다,한국 광복절과 같은 날 — 한국 기업이 이날 일본 거래처에 보내는 메시지는 어떤 톤이든 위험. 보내지 않는 게 정답
+id-independence,ID,Indonesia Independence Day,Hari Kemerdekaan,,national,celebratory,fixed:08-17,,,,1,Dirgahayu Republik Indonesia,,인도네시아 공화국 만세,당일 오전,
+my-merdeka,MY,Hari Merdeka,Hari Merdeka,,national,celebratory,fixed:08-31,,,,1,Selamat Hari Merdeka,,독립기념일을 축하합니다,당일 오전,
+vn-national-day,VN,Vietnam National Day,Quốc khánh,Quoc khanh,national,celebratory,fixed:09-02,,,,1,Chúc mừng Quốc khánh,Chuc mung Quoc khanh,국경일을 축하합니다,당일 오전,
+my-malaysia-day,MY,Malaysia Day,Hari Malaysia,,national,celebratory,fixed:09-16,,,,1,Selamat Hari Malaysia,,말레이시아의 날을 축하합니다,당일 오전,
+np-constitution-day,NP,Nepal Constitution Day,संविधान दिवस,,national,celebratory,fixed:09-19,,,,1,,,,당일 오전,
+cn-national-day,CN;HK,PRC National Day,国庆节,Guoqing jie,national,celebratory,fixed:10-01,,,,7,国庆节快乐,Guoqing jie kuaile,국경절 즐겁게 보내세요,전날 또는 당일 오전,10/1~7 골든위크 — 업무 완전 정지. 대만(10/10)과 절대 교차 발송 금지
+in-gandhi-jayanti,IN,Gandhi Jayanti,गांधी जयंती,,national,neutral,fixed:10-02,,,,1,,,,중립 문장 또는 생략,전국 금주일 — 축하보다 존중하는 톤
+tw-double-ten,TW,Double Ten National Day,國慶日 / 雙十節,Shuangshi jie,national,celebratory,fixed:10-10,,,,1,國慶日快樂,Guoqing ri kuaile,국경일 즐겁게 보내세요,당일 오전,중국(10/1)과 절대 교차 발송 금지. 번체 표기 사용
+th-king-bhumibol-passing,TH,Passing of King Bhumibol,วันคล้ายวันสวรรคต,,national,solemn,fixed:10-13,,,,1,,,,보내지 않는다,국왕 서거일. 왕실 관련 발언은 불경죄 위험 — 어떤 언급도 하지 않는다
+kh-independence,KH,Cambodia Independence Day,ទិវាឯករាជ្យជាតិ,,national,celebratory,fixed:11-09,,,,1,,,,당일 오전,1/7은 캄보디아·베트남 사이 민감한 날 — 언급 금지
+vn-culture-day,VN,Vietnam Culture Day,Ngày Văn hóa Việt Nam,,national,celebratory,fixed:11-24,,,,1,,,,당일 오전,2026년 신설 공휴일
+mn-republic-day,MN,Mongolia Republic Day,Бүгд Найрамдах Улс тунхагласан өдөр,,national,celebratory,fixed:11-26,,,,1,,,,당일 오전,
+la-national-day,LA,Laos National Day,ວັນຊາດ,,national,celebratory,fixed:12-02,,,,1,,,,당일 오전,
+mm-national-day,MM,Myanmar National Day,အမျိုးသားနေ့,,national,celebratory,fixed:12-04,,,,1,,,,당일 오전,
+th-national-day,TH,Thailand National Day / Father's Day,วันชาติ,,national,neutral,fixed:12-05,,,,1,,,,중립 문장 또는 생략,선왕 탄신일 — 왕실 관련 표현은 절제. 불경죄 위험
+bd-victory-day,BD,Bangladesh Victory Day,বিজয় দিবস,Bijoy Dibosh,national,celebratory,fixed:12-16,,,,1,শুভ বিজয় দিবস,Shubho Bijoy Dibosh,승리의 날을 축하합니다,당일 오전,
+jp-obon,JP,Obon,お盆,Obon,cultural,neutral,fixed:08-13,,,,3,,,,인사보다 휴무 확인용,조상 추모 기간 — 축하 표현 부적절. 일본 업무 정지
+jp-year-end,JP,Japanese New Year period,年末年始,Nenmatsu nenshi,cultural,neutral,fixed:12-29,,,,6,,,,인사보다 휴무 확인용,12/29~1/3 업무 정지. 일본은 연하장 문화가 있어 신년 인사가 특히 중요
+epiphany,ES;IT;AT;PL;GR;HR;SK;DE;FI;SE,Epiphany,Día de Reyes / Befana,,religious,neutral,fixed:01-06,,,,1,,,,인사보다 휴무 확인용,스페인·그리스는 이날까지가 연말 시즌 — 1/7 전에 업무 복귀를 기대하지 말 것
+az-black-january,AZ,Black January / Martyrs' Day,20 Yanvar,Iyirmi Yanvar,national,solemn,fixed:01-20,,,,1,,,,보내지 않는다,1990년 희생자 추모일
+holocaust-remembrance,DE;IT;GB;PL;AT;FR;NL;BE;HU;CZ;SK,International Holocaust Remembrance Day,,,national,solemn,fixed:01-27,,,,1,,,,보내지 않는다,이날 어떤 상업적 메시지도 보내지 않는다
+rs-statehood,RS,Statehood Day,Сретење / Sretenje,Sretenje,national,celebratory,fixed:02-15,,,,2,Срећан Дан државности,Srecan Dan drzavnosti,국가의 날을 축하합니다,당일 오전,크로아티아 거래처와 같은 명단에 절대 넣지 않는다
+ua-invasion-anniversary,UA,Anniversary of the Invasion,,,national,solemn,fixed:02-24,,,,1,,,,보내지 않는다,상업적 연락 자체를 피한다
+bg-liberation-day,BG,Bulgaria Liberation Day,Ден на Освобождението,Den na Osvobozhdenieto,national,celebratory,fixed:03-03,,,,1,Честит Трети март,Chestit Treti mart,3월 3일을 축하합니다,당일 오전,오스만 지배로부터의 해방 — 터키 거래처와 채널 분리
+hu-1848-revolution,HU,1848 Revolution Day,Nemzeti ünnep,,national,celebratory,fixed:03-15,,,,1,,,,당일 오전,
+ie-st-patricks,IE,St Patrick's Day,Lá Fhéile Pádraig,,cultural,celebratory,fixed:03-17,,,,1,Lá Fhéile Pádraig sona duit,,성 패트릭의 날 축하합니다,당일 오전,
+gr-independence,GR,Greek Independence Day,Ημέρα της Ανεξαρτησίας,,national,celebratory,fixed:03-25,,,,1,Χρόνια Πολλά,Chronia Polla,오래 사시기를(만능 축하),당일 오전,오스만 지배로부터의 독립 — 터키 거래처와 채널 분리
+rs-nato-bombing,RS,NATO Bombing Remembrance,,,national,solemn,fixed:03-24,,,,1,,,,보내지 않는다,
+ge-april-9,GE,April 9 Tragedy,,,national,solemn,fixed:04-09,,,,1,,,,보내지 않는다,1989년 트빌리시 유혈진압 추모일
+am-genocide-remembrance,AM,Armenian Genocide Remembrance Day,Եղեռնի զոհերի հիշատակի օր,,national,solemn,fixed:04-24,,,,1,,,,보내지 않거나 추모 문장,아제르바이잔·터키 거래처와 절대 같은 명단에 넣지 않는다
+pt-freedom-day,PT,Freedom Day,Dia da Liberdade,,national,celebratory,fixed:04-25,,,,1,,,,당일 오전,
+chernobyl-remembrance,UA,Chernobyl Remembrance Day,,,national,solemn,fixed:04-26,,,,1,,,,보내지 않는다,
+nl-kingsday,NL,King's Day,Koningsdag,Koningsdag,national,celebratory,fixed:04-27,,,,1,Fijne Koningsdag,,즐거운 왕의 날 되세요,당일 오전,네덜란드 최대 축제일 — 전국이 주황색
+nl-dodenherdenking,NL,Remembrance of the Dead,Dodenherdenking,,national,solemn,fixed:05-04,,,,1,,,,보내지 않는다,저녁 8시 전국 2분 묵념. 마케팅 메시지 금지
+pl-constitution-day,PL,Polish Constitution Day,Święto Konstytucji 3 Maja,,national,celebratory,fixed:05-03,,,,1,,,,당일 오전,5/1~3 마유프카 연휴 — 5~9일 업무 중단
+ve-day,FR;UA,Victory in Europe Day,Victoire 1945,,national,solemn,fixed:05-08,,,,1,,,,보내지 않거나 추모 문장,축하가 아닌 추모의 톤
+ru-victory-day,RU,Victory Day,День Победы,Den Pobedy,national,solemn,fixed:05-09,,,,1,,,,보내지 않는다,현 정세에서 어느 쪽으로 해석되든 위험 — 러시아에는 신년 인사만 보낸다
+no-constitution-day,NO,Norwegian Constitution Day,Grunnlovsdagen / syttende mai,,national,celebratory,fixed:05-17,,,,1,Gratulerer med dagen,,오늘을 축하합니다,당일 오전,노르웨이 최대 국경일
+ge-independence,GE,Georgia Independence Day,დამოუკიდებლობის დღე,,national,celebratory,fixed:05-26,,,,1,გილოცავთ,Gilocavt,축하드립니다,당일 오전,압하지야·남오세티야 관련 언급 금지
+az-republic-day,AZ,Azerbaijan Republic Day,Respublika Günü,,national,celebratory,fixed:05-28,,,,1,Bayramınız mübarək,,명절을 축하합니다,당일 오전,아르메니아 거래처와 절대 같은 명단에 넣지 않는다
+hr-statehood,HR,Croatia Statehood Day,Dan državnosti,,national,celebratory,fixed:05-30,,,,1,Sretan Dan državnosti,,국가의 날을 축하합니다,당일 오전,2020년에 6/25에서 5/30으로 변경됨
+it-republic-day,IT,Italian Republic Day,Festa della Repubblica,,national,celebratory,fixed:06-02,,,,1,Buona Festa della Repubblica,,공화국의 날 좋은 하루 되세요,당일 오전,
+hu-trianon,HU,Day of National Cohesion (Trianon),Nemzeti Összetartozás Napja,,national,solemn,fixed:06-04,,,,1,,,,보내지 않는다,트리아농 조약 추모일. 루마니아·슬로바키아 거래처와 채널 분리
+se-national-day,SE,Sweden National Day,Sveriges nationaldag,,national,celebratory,fixed:06-06,,,,1,Glad nationaldag,,즐거운 국경일 되세요,당일 오전,
+pt-portugal-day,PT,Portugal Day,Dia de Portugal,,national,celebratory,fixed:06-10,,,,1,Feliz Dia de Portugal,,포르투갈의 날을 축하합니다,당일 오전,
+ru-russia-day,RU,Russia Day,День России,Den Rossii,national,neutral,fixed:06-12,,,,1,,,,보내지 않거나 중립 문장,정치적으로 민감 — 신년 인사만 권장
+jun22-remembrance,RU,Day of Remembrance and Sorrow,,,national,solemn,fixed:06-22,,,,1,,,,보내지 않는다,
+ua-constitution,UA,Ukraine Constitution Day,День Конституції,,national,celebratory,fixed:06-28,,,,1,,,,당일 오전 또는 생략,전시 상황 — 절제된 톤. 러시아어로 쓰지 않는다
+ni-orangemens-day,GB,Orangemen's Day,,,cultural,solemn,fixed:07-12,,,,1,,,,보내지 않는다,북아일랜드 종파 갈등 — 절대 언급 금지
+fr-national-day,FR,Fête Nationale (Bastille Day),Fête Nationale,,national,celebratory,fixed:07-14,,,,1,Bonne fête nationale,,국경일 좋은 하루 되세요,당일 오전,"프랑스에서는 ""Bastille Day""라고 잘 부르지 않는다 — Fête Nationale 또는 le 14 juillet"
+ua-statehood,UA,Day of Ukrainian Statehood,День Української Державності,,national,celebratory,fixed:07-15,,,,1,,,,당일 오전 또는 생략,2023년 7/28에서 7/15로 변경됨
+be-national-day,BE,Belgium National Day,Nationale feestdag / Fête nationale,,national,celebratory,fixed:07-21,,,,1,,,,당일 오전,네덜란드어권·프랑스어권 언어 확인
+no-july-22,NO,July 22 Remembrance,,,national,solemn,fixed:07-22,,,,1,,,,보내지 않는다,2011년 테러 추모일
+ch-national-day,CH,Swiss National Day,Bundesfeier / Fête nationale,,national,celebratory,fixed:08-01,,,,1,,,,당일 오전,주(canton)별 언어 확인
+cz-sk-aug21,CZ;SK,Anniversary of the 1968 Invasion,,,national,solemn,fixed:08-21,,,,1,,,,보내지 않는다,
+hu-st-stephens,HU,St Stephen's Day / State Foundation Day,Szent István ünnepe,,national,celebratory,fixed:08-20,,,,1,,,,당일 오전,헝가리 최대 국경일
+ua-independence,UA,Ukraine Independence Day,День Незалежності,Den Nezalezhnosti,national,celebratory,fixed:08-24,,,,1,З Днем Незалежності,Z Dnem Nezalezhnosti,독립기념일을 축하합니다,당일 오전 또는 생략,전시 상황 — 절제된 톤. 러시아어로 쓰지 않는다
+kz-constitution-day,KZ,Kazakhstan Constitution Day,Конституция күні,,national,neutral,fixed:08-30,,,,1,,,,보내지 않는다,2026년부터 3/15로 이동했다는 현지 보도와 기존 8/30을 유지하는 국제 DB가 충돌 — 확인 전에는 아무것도 보내지 않는다
+pl-sep-1,PL,Anniversary of the 1939 Invasion,,,national,solemn,fixed:09-01,,,,1,,,,보내지 않는다,
+uz-independence,UZ,Uzbekistan Independence Day,Mustaqillik kuni,,national,celebratory,fixed:09-01,,,,1,Mustaqillik kuningiz muborak,,독립기념일을 축하합니다,당일 오전,
+am-independence,AM,Armenia Independence Day,Անկախության օր,,national,celebratory,fixed:09-21,,,,1,Շնորհավոր,Shnorhavor,축하드립니다,당일 오전,아제르바이잔 거래처와 절대 같은 명단에 넣지 않는다
+tm-independence,TM,Turkmenistan Independence Day,Garaşsyzlyk güni,,national,celebratory,fixed:09-27,,,,1,Baýramyňyz gutly bolsun,,명절을 축하합니다,당일 오전,2018년 10/27에서 9/27로 변경됨. 정치 언급 금지
+cz-statehood,CZ,Czech Statehood Day,Den české státnosti,,national,celebratory,fixed:09-28,,,,1,,,,당일 오전,
+ua-defenders-day,UA,Defenders of Ukraine Day,День захисників і захисниць,,national,solemn,fixed:10-01,,,,1,,,,추모 문장 또는 생략,2023년 10/14에서 10/1로 변경됨. 축하가 아닌 경의의 톤
+de-unity-day,DE,German Unity Day,Tag der Deutschen Einheit,,national,celebratory,fixed:10-03,,,,1,,,,당일 오전,독일 유일의 연방 국경일. 호칭에 Dr. 학위 반드시 포함
+pt-republic-day,PT,Portugal Republic Day,Implantação da República,,national,celebratory,fixed:10-05,,,,1,,,,당일 오전,
+tm-remembrance,TM,Turkmenistan Day of Remembrance,Hatyra güni,,national,solemn,fixed:10-06,,,,1,,,,보내지 않는다,
+es-fiesta-nacional,ES,Spain National Day,Fiesta Nacional de España,,national,celebratory,fixed:10-12,,,,1,Feliz Fiesta Nacional,,국경일을 축하합니다,당일 오전,중남미의 10/12(원주민 저항의 날 등)와 의미가 다르다 — 같은 문안 재사용 금지
+az-independence-restoration,AZ,Azerbaijan Independence Restoration Day,Müstəqilliyin Bərpası Günü,,national,celebratory,fixed:10-18,,,,1,Bayramınız mübarək,,명절을 축하합니다,당일 오전,
+hu-1956,HU,1956 Revolution / Republic Day,,,national,celebratory,fixed:10-23,,,,1,,,,당일 오전,
+kz-republic-day,KZ,Kazakhstan Republic Day,Республика күні,,national,celebratory,fixed:10-25,,,,1,Мерекеңіз құтты болсын,Merekeniz qutty bolsyn,명절을 축하합니다,당일 오전,
+at-nationalfeiertag,AT,Austria National Day,Nationalfeiertag,,national,celebratory,fixed:10-26,,,,1,,,,당일 오전,독일보다 학위 호칭에 더 엄격
+cz-independence,CZ,Independent Czechoslovak State Day,Den vzniku samostatného státu,,national,celebratory,fixed:10-28,,,,1,,,,당일 오전,
+gr-ohi-day,GR,Ohi Day,Επέτειος του Όχι,Ohi Day,national,celebratory,fixed:10-28,,,,1,Χρόνια Πολλά,Chronia Polla,오래 사시기를,당일 오전,
+all-saints-day,PL;HU;RO;HR;ES;IT;FR;AT;BE;PT,All Saints' Day,Toussaint / Ognissanti,,religious,neutral,fixed:11-01,,,,1,,,,보내지 않거나 절제된 문장,성묘의 날 — 축제가 아니다. 국화는 이 지역 장례 꽃
+az-karabakh-victory,AZ,Karabakh Victory Day,Zəfər Günü,,national,solemn,fixed:11-08,,,,1,,,,보내지 않는다,축하하면 분쟁에서 한쪽 편을 드는 것이 된다
+pl-independence,PL,Polish Independence Day,Narodowe Święto Niepodległości,,national,celebratory,fixed:11-11,,,,1,,,,당일 오전,같은 11월 11일이지만 영국·캐나다의 추모일과 정반대로 폴란드는 경축일 — 한 문안을 돌려쓰면 양쪽 다 틀린다
+hr-vukovar,HR,Vukovar Remembrance Day,Dan sjećanja na Vukovar,,national,solemn,fixed:11-18,,,,1,Odajemo počast,,경의를 표합니다,보내지 않거나 추모 문장,"""sretan""(행복한)은 절대 쓰지 않는다"
+ro-great-union,RO,Romania Great Union Day,Ziua Marii Uniri,,national,celebratory,fixed:12-01,,,,1,La mulți ani,La multi ani,오래 사시기를(만능 축하),당일 오전,헝가리 거래처와 채널 분리(트란실바니아 문제)
+pt-restoration,PT,Restoration of Independence,Restauração da Independência,,national,celebratory,fixed:12-01,,,,1,,,,당일 오전,
+fi-independence,FI,Finland Independence Day,Itsenäisyyspäivä,,national,neutral,fixed:12-06,,,,1,Hyvää itsenäisyyspäivää,,좋은 독립기념일 되세요,당일 오전,축제가 아니라 촛불을 켜는 엄숙한 날 — 절제된 톤
+uz-constitution,UZ,Uzbekistan Constitution Day,Konstitutsiya kuni,,national,celebratory,fixed:12-08,,,,1,,,,당일 오전,
+tm-neutrality,TM,Turkmenistan Neutrality Day,Bitaraplyk güni,,national,celebratory,fixed:12-12,,,,1,,,,당일 오전,
+kz-independence,KZ,Kazakhstan Independence Day,Тәуелсіздік күні,,national,celebratory,fixed:12-16,,,,2,Мерекеңіз құтты болсын,Merekeniz qutty bolsyn,명절을 축하합니다,당일 오전,
+ru-new-year-holidays,RU,Russian New Year holidays,Новогодние каникулы,,national,neutral,fixed:12-29,,,,14,С Новым годом,S Novym godom,새해를 축하합니다,12/26~28,12/29~1/11 이 파일에서 가장 긴 업무 중단. 러시아는 크리스마스보다 신년이 훨씬 크다 — 신년 인사만 보낸다
